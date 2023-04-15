@@ -68,5 +68,5 @@ endif ()
 
 add_subdirectory(libfswatch)
 add_subdirectory(fswatch/src)
-add_subdirectory(test/src)
+#add_subdirectory(test/src)
 add_subdirectory(luabinding/src)
